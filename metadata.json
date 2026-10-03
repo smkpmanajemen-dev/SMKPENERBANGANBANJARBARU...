@@ -1,0 +1,6 @@
+{
+  "name": "StokFlow - Inventaris Penerimaan & Pengeluaran",
+  "description": "Aplikasi manajemen penerimaan dan pengeluaran barang dengan perhitungan sisa stok otomatis, pemantauan stok rendah, dan dasbor responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
